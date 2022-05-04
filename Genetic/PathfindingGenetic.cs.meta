@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 465a460689bd7ab4eb412feaae3bcce6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startwp: {instanceID: 0}
+  - goalwp: {instanceID: 0}
+  - green: {fileID: 2100000, guid: 2d01301f577466d48be690018d3a0e00, type: 2}
+  - red: {fileID: 2100000, guid: 8e61a39c623b17a4d855bd3761526b29, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
